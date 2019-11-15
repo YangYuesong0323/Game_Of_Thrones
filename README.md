@@ -2,5 +2,17 @@
 
 This is a project on network analysis, featuring Game of Thrones.
 
+## Skill Demonstration
 
-https://game-of-thrones-script.herokuapp.com/name/Tywin%20Lannister
+### Network:
+1. Build network
+2. Visualise network
+3. Centrality measures : betweenness, eigenvector, degree centrality (Character Network)
+4. Community detection (House Network)
+
+### Natural Language Processing
+1. Data extraction, web scraping
+2. regular expression, text cleaning
+3. tf-idf, key word extraction
+4. word cloud visualisation
+5. Sentiment analysis (on its way)
