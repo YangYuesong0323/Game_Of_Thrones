@@ -15,6 +15,6 @@ This is a project on network analysis, featuring Game of Thrones.
 2. regular expression, text cleaning
 3. tf-idf, key word extraction
 4. word cloud visualisation
-5. Sentiment analysis (on its way)
+5. Sentiment analysis
 
 website draft : https://medium.com/@yangyuesongyys/network-analysis-on-game-of-thrones-8b8b7dd71945
